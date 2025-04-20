@@ -76,7 +76,7 @@ This project focuses on optimizing the parameters of an SVM classifier using a m
 
 The following graph shows the improvement in accuracy over 100 iterations for the **best sample (S7)**:
 
-![Convergence Graph](<img width="795" alt="graph" src="https://github.com/user-attachments/assets/4236e2f8-6e45-4465-83c2-d6712d03c52f" />
+![Convergence Graph](graph.png
 )
 
 
